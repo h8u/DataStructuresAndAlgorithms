@@ -1,0 +1,5 @@
+﻿  Lab3_1.cpp
+D:\Repository\DataStruturesAndAlgorithms\Lab3_1\Lab3_1\Lab3_1.cpp(65,17): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\Repository\DataStruturesAndAlgorithms\Lab3_1\Lab3_1\Lab3_1.cpp(84,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Repository\DataStruturesAndAlgorithms\Lab3_1\Lab3_1\Lab3_1.cpp(91,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Lab3_1.vcxproj -> D:\Repository\DataStruturesAndAlgorithms\Lab3_1\x64\Debug\Lab3_1.exe
